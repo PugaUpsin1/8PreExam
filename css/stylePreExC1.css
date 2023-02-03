@@ -1,0 +1,56 @@
+
+body{
+    margin: 0;
+    height: auto;
+    padding: 0;
+    background-color: white;
+    font-family: sans-serif;
+}
+header{
+    padding: 1px;
+    background-color: royalblue;
+}
+.registros{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+div{
+    margin: 10px;
+}
+
+.labels{
+    margin-top: 20px;
+    padding-top: 10px;
+    width: 200px;
+    flex-wrap: wrap;
+}
+
+input{
+height: 30px;
+width: 300px;
+font-family:sans-serif;
+font-style: oblique;
+margin-top: 10px;
+}
+
+
+.bot{
+    padding: 2%;
+}
+
+.bot button{
+    margin-top: 10px;
+}
+section{
+    height: 454px;
+    padding: 20px;
+}
+footer{
+    font-family:sans-serif;
+    padding: 20px;
+    text-align: center;
+
+}
